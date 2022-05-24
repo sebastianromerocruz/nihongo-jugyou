@@ -14,3 +14,5 @@
 - **天文学者** (てんもんがくしゃ): Astronomer
 - **必然** (ひつぜん): Inevitability, certainty
 - **偶然か、必然か** (ぐうぜんか、ひつぜんか): Chance or fate
+- **内定** (): 
+- 
